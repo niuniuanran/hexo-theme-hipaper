@@ -22,12 +22,11 @@ favicon: css/images/favicon.ico
 # Put your avatar.jpg into `hexo-site/themes/hipaper/source/` directory.
 # url is target link (E.g. `url: https://hexo.io/logo.svg` or `url: css/images/mylogo.jpg`)
 avatar: 
-  enable: false
+  enable: true
   width: 124
   height: 124
   bottom: 10
-  url: https://hexo.io/logo.svg
-
+  url: https://avatars2.githubusercontent.com/u/41246016?s=460&u=e22571e5c4f02b5600cc36ab19a095b706de68c8&v=4
 
 # AboutPage background, support multiple images.
 about_big_image: [css/images/pose01.jpg, https://source.unsplash.com/collection/954550/1920x1080, https://source.unsplash.com/collection/954550/1920x1081]
@@ -56,12 +55,8 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: https://github.com/iTimeTraveler
-  Weibo: 
-  Twitter: 
-  Facebook: 
-  Google-plus: 
-  Instagram: 
+  Github: https://github.com/niuniuanran
+  LinkedIn: https://www.linkedin.com/in/anran-niu-897b4b197/
 
 
 # Search
